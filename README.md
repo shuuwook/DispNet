@@ -2,9 +2,9 @@
 ## Keras Version of DispNet
 
 ### **Progress**
-[x] Keras version compile
-[ ] Performance like original
-[ ] (Secret)
+- #### [x] Keras version compile
+- #### [ ] Performance like original
+- #### [ ] (Secret)
 
 #### <SOURCE>-------------------------------------------------------------------------------------------------
 
